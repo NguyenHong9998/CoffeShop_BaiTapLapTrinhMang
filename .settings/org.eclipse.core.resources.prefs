@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//WebContent/WEB-INF/views/BillViewJSP.jsp=UTF-8
+encoding//WebContent/css/style.css=UTF-8
+encoding//WebContent/index.jsp=UTF-8
+encoding//src/controller/BillInsertController.java=UTF-8
+encoding//src/controller/CustomerEditController.java=UTF-8
+encoding//src/controller/CustomerInsertController.java=UTF-8
+encoding//src/controller/LoginController.java=UTF-8
+encoding//src/controller/PriceTimeAddController.java=UTF-8
+encoding//src/controller/PriceTimeEditController.java=UTF-8
